@@ -8,6 +8,7 @@
     * [1.1.3 Kibana](01-overview/1.1-elastic-stack/1.1.3-kibana.md)
     * [1.1.4 Beats](01-overview/1.1-elastic-stack/1.1.4-beats.md)
 * [2. Elasticsearch 시작하기](02-install/README.md)
+  * [2.1  Elasticsearch VS DBMS](02-install/2.1-elasticsearch-vs-dbms.md)
   * [2.1 데이터 색인](02-install/2.1.md)
   * [2.2 설치 및 실행](02-install/2.2/README.md)
     * [2.2.1 다운로드 설치 및 실행](02-install/2.2/2.2.1-download-install.md)
