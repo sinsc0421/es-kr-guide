@@ -2,6 +2,7 @@
 
 * [Elastic 가이드 북](README.md)
 * [1. 서문](01-overview/README.md)
+  * [1.0 시작하기](01-overview/1.0.md)
   * [1.1 Elastic Stack 소개](01-overview/1.1-elastic-stack/README.md)
     * [1.1.1 Elasticsearch](01-overview/1.1-elastic-stack/1.1.1-elasticsearch.md)
     * [1.1.2 Logstash](01-overview/1.1-elastic-stack/1.1.2-logstash.md)
