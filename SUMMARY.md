@@ -11,7 +11,7 @@
 * [2. Elasticsearch 시작하기](02-install/README.md)
   * [2.0  Elasticsearch VS DBMS](02-install/2.0-elasticsearch-vs-dbms.md)
   * [2.1 데이터 색인](02-install/2.1.md)
-  * [2.2 설치 및 실행](02-install/2.2/README.md)
+  * [2.2 설치 및 실행 (Pass)](02-install/2.2/README.md)
     * [2.2.1 다운로드 설치 및 실행](02-install/2.2/2.2.1-download-install.md)
     * [2.2.2 Unix RPM (yum) 설치 및 실행](02-install/2.2/2.2.2-unix-rpm-yum.md)
     * [2.2.3 윈도우 운영체제에서 MSI 파일로 설치](02-install/2.2/2.2.3-msi.md)
