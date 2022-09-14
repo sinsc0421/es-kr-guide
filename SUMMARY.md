@@ -22,7 +22,7 @@
     * [2.3.4 커맨드 라인 설정](02-install/2.3-elasticsearch/2.3.4-cofig-on-start-command.md)
 * [3. Elasticsearch 시스템 구조](03-cluster/README.md)
   * [3.1 클러스터 구성](03-cluster/3.1-cluster-settings.md)
-  * [3.2 인덱스와 샤드 - Index & Shards](03-cluster/3.2-index-and-shards.md)
+  * [3.2 인덱스와 샤드(Index\&Shards)](03-cluster/3.2-index-and-shards.md)
   * [3.3 마스터 노드와 데이터 노드 - Master & Data Nodes](03-cluster/3.3-master-and-data-nodes.md)
 * [4. Elasticsearch 데이터 처리](04-data/README.md)
   * [4.1 REST API](04-data/4.1-rest-api.md)
