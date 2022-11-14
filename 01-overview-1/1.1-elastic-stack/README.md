@@ -34,7 +34,7 @@ GCP에서 생성한 VM instance에 접근 하기 위하여 SSH, FTP 접속 환�
 
 * **등록정보 > 공개키**
 
-****![](<../../.gitbook/assets/image (7).png>)****
+****![](<../../.gitbook/assets/image (7) (2).png>)****
 
 * 공개키 복사
 
@@ -58,7 +58,7 @@ ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAyZW7+JkxXZD1KUyj7OxZQtDw7hUIKjAGcSZGLgR0C8Iu
 
 3\. SSH키추가 (위 데이터 복사)
 
-![](<../../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/assets/image (3) (2).png>)
 
 위 데이터만 복사하였을때 다음과 같은 에러가 발생한다.
 
@@ -76,7 +76,7 @@ Xshell 파일(F) > 새로만들기 클릭
 
 * 호스트 (생성한 외부 IP)
 
-![](<../../.gitbook/assets/image (6).png>)![](<../../.gitbook/assets/image (1).png>)
+![](<../../.gitbook/assets/image (6).png>)![](<../../.gitbook/assets/image (1) (1).png>)
 
 * 사용자 인증 클릭
   * 사용자이름 : 계정명 입력 (<mark style="color:blue;">**xxxx**</mark>@gmail.com)
@@ -93,4 +93,4 @@ Xshell 파일(F) > 새로만들기 클릭
 
 * 완료
 
-![](<../../.gitbook/assets/image (8).png>)
+![](<../../.gitbook/assets/image (8) (2).png>)
