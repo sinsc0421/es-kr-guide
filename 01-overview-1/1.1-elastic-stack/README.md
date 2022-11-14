@@ -34,7 +34,7 @@ GCP에서 생성한 VM instance에 접근 하기 위하여 SSH, FTP 접속 환�
 
 * **등록정보 > 공개키**
 
-****![](<../../.gitbook/assets/image (7) (2) (1).png>)****
+****![](<../../.gitbook/assets/image (7) (2).png>)****
 
 * 공개키 복사
 
@@ -76,14 +76,14 @@ Xshell 파일(F) > 새로만들기 클릭
 
 * 호스트 (생성한 외부 IP)
 
-![](<../../.gitbook/assets/image (6) (2).png>)![](<../../.gitbook/assets/image (1) (1).png>)
+![](<../../.gitbook/assets/image (6).png>)![](<../../.gitbook/assets/image (1) (1).png>)
 
 * 사용자 인증 클릭
   * 사용자이름 : 계정명 입력 (<mark style="color:blue;">**xxxx**</mark>@gmail.com)
   * 인증법방 : public key 선택
     * 설정 클릭 후 생성한 사용자키, 암호 입력
 
-![](<../../.gitbook/assets/image (11).png>)
+![](<../../.gitbook/assets/image (11) (2).png>)
 
 
 
