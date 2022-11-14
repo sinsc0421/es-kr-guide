@@ -80,7 +80,7 @@
   * [8.4 파이프라인 - Pipeline Aggregations](08-aggregations/8.4-pipeline-aggregations.md)
 * [#별첨. 개발환경 설정](01-overview-1/README.md)
   * [1.0 실습전 준비](01-overview-1/1.0.md)
-  * [1.1 Elastic Stack 소개](01-overview-1/1.1-elastic-stack/README.md)
+  * [1.1 SSH, FTP 접속 환경 구성](01-overview-1/1.1-elastic-stack/README.md)
     * [1.1.1 Elasticsearch](01-overview-1/1.1-elastic-stack/1.1.1-elasticsearch.md)
     * [1.1.2 Logstash](01-overview-1/1.1-elastic-stack/1.1.2-logstash.md)
     * [1.1.3 Kibana](01-overview-1/1.1-elastic-stack/1.1.3-kibana.md)
