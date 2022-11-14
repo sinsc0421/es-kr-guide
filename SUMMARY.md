@@ -80,4 +80,5 @@
   * [8.4 파이프라인 - Pipeline Aggregations](08-aggregations/8.4-pipeline-aggregations.md)
 * [#별첨. 개발환경 설정](01-overview-1/README.md)
   * [1.0 실습전 준비](01-overview-1/1.0.md)
-  * [1.2 SSH, FTP 접속 환경 구성](01-overview-1/1.1-elastic-stack.md)
+  * [1.1 VM Instance 생성](01-overview-1/1.1-vm-instance.md)
+  * [1.2 SSH, FTP 접속 환경 구성](01-overview-1/1.1-elastic-stack/README.md)
