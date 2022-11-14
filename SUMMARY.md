@@ -85,3 +85,4 @@
   * [1.3 기본 프로그램 설치](01-overview-1/1.3.md)
   * [1.4 ElasticSearch& Kibana 다운로드 및 설치](01-overview-1/1.4-elasticsearch-and-kibana.md)
   * [1.5 최적화 설정](01-overview-1/1.5.md)
+  * [1.6 방화벽 설정](01-overview-1/1.6.md)
