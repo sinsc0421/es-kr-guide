@@ -15,4 +15,4 @@ ZIP 또는 TAR 파일을 내려받아 압축을 풀고, 생성된 bin 디렉토�
 
 6.3 버전 부터는 아파치 2.0 라이센스와 Elastic 라이센스 (X-Pack) 가 혼합된 배포판을 기본으로 제공하기 때문에 아파치 2.0 라이센스에 속한 기능만을 내려받으려면 OSS 페이지로 이동해서 내려받아야 합니다.
 
-![Apache 2.0 라이센스 버전 - https://www.elastic.co/downloads/elasticsearch-oss](<../../.gitbook/assets/image (14).png>)
+![Apache 2.0 라이센스 버전 - https://www.elastic.co/downloads/elasticsearch-oss](<../../.gitbook/assets/image (14) (1).png>)
