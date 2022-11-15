@@ -76,7 +76,7 @@ Xshell 파일(F) > 새로만들기 클릭
 
 * 호스트 (생성한 외부 IP)
 
-![](<../../.gitbook/assets/image (6) (2).png>)![](<../../.gitbook/assets/image (1) (1) (2).png>)
+![](<../../.gitbook/assets/image (6) (1).png>)![](<../../.gitbook/assets/image (1) (1) (2).png>)
 
 * 사용자 인증 클릭
   * 사용자이름 : 계정명 입력 (<mark style="color:blue;">**xxxx**</mark>@gmail.com)
