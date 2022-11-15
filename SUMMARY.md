@@ -82,7 +82,7 @@
   * [1.0 실습전 준비](01-overview-1/1.0.md)
   * [1.1 VM Instance 생성](01-overview-1/1.1-vm-instance.md)
   * [1.2 SSH, FTP 접속 환경 구성](01-overview-1/1.1-elastic-stack/README.md)
-  * [1.3 기본 패키지 설치](01-overview-1/1.3.md)
+  * [1.3 기본 패키지& JAVA 설치](01-overview-1/1.3-and-java.md)
   * [1.4 ElasticSearch& Kibana 다운로드 및 설치](01-overview-1/1.4-elasticsearch-and-kibana.md)
   * [1.5 최적화 설정](01-overview-1/1.5.md)
   * [1.6 방화벽 설정](01-overview-1/1.6.md)
