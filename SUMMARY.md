@@ -89,6 +89,6 @@
   * [1.7 ElasticSearch settings](01-overview-1/1.7-elasticsearch-settings.md)
   * [1.8 Elasticsearch 보안 설정](01-overview-1/1.8-elasticsearch.md)
   * [1.9 접속 테스트](01-overview-1/1.9.md)
-  * [2. 키바나 설정](01-overview-1/2..md)
-  * [3. 플러그인 설치](01-overview-1/3..md)
+  * [2. 키바나 설정](01-overview-1/2.1.md)
+  * [3. 플러그인 설치](01-overview-1/2..md)
   * [Untitled](01-overview-1/untitled.md)

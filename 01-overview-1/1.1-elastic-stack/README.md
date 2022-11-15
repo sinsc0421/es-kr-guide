@@ -34,7 +34,7 @@ GCP에서 생성한 VM instance에 접근 하기 위하여 SSH, FTP 접속 환�
 
 * **등록정보 > 공개키**
 
-****![](<../../.gitbook/assets/image (7) (2).png>)****
+****![](<../../.gitbook/assets/image (7) (2) (1).png>)****
 
 * 공개키 복사
 
@@ -54,7 +54,7 @@ ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAyZW7+JkxXZD1KUyj7OxZQtDw7hUIKjAGcSZGLgR0C8Iu
 
 2.SSH키 선택
 
-![](<../../.gitbook/assets/image (12).png>)
+![](<../../.gitbook/assets/image (12) (2).png>)
 
 3\. SSH키추가 (위 데이터 복사)
 
@@ -72,7 +72,7 @@ ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAyZW7+JkxXZD1KUyj7OxZQtDw7hUIKjAGcSZGLgR0C8Iu
 
 Xshell 파일(F) > 새로만들기 클릭
 
-![](<../../.gitbook/assets/image (16) (1).png>)
+![](<../../.gitbook/assets/image (16).png>)
 
 * 호스트 (생성한 외부 IP)
 
@@ -93,4 +93,4 @@ Xshell 파일(F) > 새로만들기 클릭
 
 * 완료
 
-![](<../../.gitbook/assets/image (8) (2).png>)
+![](<../../.gitbook/assets/image (8) (2) (1).png>)
